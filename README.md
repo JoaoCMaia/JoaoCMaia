@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoCMaia
-- 🌱 I’m currently learning LEETC at ISEL
+- 🌱 I’m currently learning MEET at ISEL
 - 📫 How to reach me joao2000maia@gmail.com
 
 <!---
